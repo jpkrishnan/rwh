@@ -16,7 +16,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 
 ## Tickers
 
-*Alphabetical. 41 tickers covered (37 Active / 4 Paused).*
+*Alphabetical. 44 tickers covered (40 Active / 4 Paused).*
 
 | Ticker | Status | Company | Moat | Conviction | Last Updated | Summary |
 |--------|--------|---------|------|-----------|--------------|---------|
@@ -34,6 +34,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 | [DELL](tickers/DELL/DELL.md) | Active | Dell Technologies | Narrow | Low-Medium | 2026-04-24 | v2.4 ingest — Watch (consensus < spot); insider selling |
 | [EBAY](tickers/EBAY/EBAY.md) | Active | eBay | Narrow | Medium | 2026-05-01 | Q1 beat (rev +19%, GMV +14% FXN); R/R 1.0:1; Watch / Hold-Trim into $115+ |
 | [FIG](tickers/FIG/FIG.md) | Active | Figma | Narrow-Emerging Wide | Moderate | 2026-05-10 | **v2.4→v2.14** + Anthropic Claude Design launch Apr 17 (named direct AI-disruption threat); FIG –16% in April; short int 20.67% (+27.5% MoM); Director Reed buy $36.5M; Q1 print May 14; PW EV ~$28 (5-yr); R/R ~5:1; **Initiate (small, contrarian) / Hold** |
+| [GOOG](tickers/GOOG/GOOG.md) | Active | Alphabet (Google) | Wide | High | 2026-05-10 | **v2.14 ingest** — wide-moat full-stack AI platform; Search +19% YoY Q1 2026 (AI Overviews not cannibalizing); Cloud $20B (+63%) at 32.9% margin with $462B backlog nearly doubled QoQ; antitrust overhang cleared behaviorally. Triple BAIT (A-Strong + I-Mod-Strong + B-Mod); PW EV $566 (+43% / 5yr); R/R ~2.5:1; **🟢 Initiate (scaled); entry $360–410** |
 | [HD](tickers/HD/HD.md) | Active | The Home Depot | Wide | Moderate-High | 2026-05-26 | **Q1 FY2026 ✅** — Rev $41.8B (+4.8%), comps +0.6%, adj EPS $3.43 beat, FY2026 guidance reaffirmed; GM miss (33.0%) from GMS dilution not tariffs; Mingledorff's HVAC closed May 11 (4th SRS vertical). At ~$313 (17th %ile), Double BAIT (B+A); PW EV $377 (+20%); R/R ~2.2:1. **🟢 Initiate / Add <$325**; Q2 ~Aug 2026 |
 | [HOOD](tickers/HOOD/HOOD.md) | Active | Robinhood Markets, Inc. | Narrow-and-Widening | Moderate-High | 2026-04-29 | Post-Q1 reset to $70.29 (–14% session) — Q1 call confirmed structural diversification (margin book +93%, Gold card $15B annualized spend, Rothera April $3B second-highest month); crypto "about similar to Q1" in April removes near-term recovery. R/R ≈5.5:1 at $70; PW EV ~$108 (+54%). **Initiate / Add** at $65–80 |
 | [INTU](tickers/INTU/INTU.md) | Active | Intuit | Wide | Moderate-High | 2026-05-22 | **v2.9→v2.14** + Q3 FY26 beat-and-raise met –20% (17% workforce cut + FY27 11–12% guide); ~13.4× FY26E NGAAP; **IRS Direct File ✅ de-risked**; Triple BAIT; PW EV $552 (+73%); R/R ~8:1; Initiate / Add |
@@ -50,6 +51,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 | [RH](tickers/RH/RH.md) | Active | RH (Restoration Hardware) | Narrow | Moderate | 2026-04-26 | v2.9 — Double BAIT (B-Strong, T-Mod via 35.6% short); deep cyclical trough; Watch / selective Initiate |
 | [RIVN](tickers/RIVN/RIVN.md) | Active | Rivian Automotive | Narrow | Moderate | 2026-05-18 | Post-earnings weakness + dilution deep-dive — $13.79 (2026-05-15, −16.6% from pre-print close on a Q1 beat) on financing overhang (mixed-shelf S-3 + DOE cut $6.57B→$4.5B + Georgia 400K→300K + R2 slip late 2028). Dilution ~850M IPO→~1.28B (~+50%); VW largest holder 15.9%; fully-loaded ~1.6–1.9B but bull-path-weighted — priced, not thesis-breaking. PW EV $21.10→$19.90; R/R 2.1→2.4:1; **Watch / Hold**; entry $11–13 |
 | [RKT](tickers/RKT/RKT.md) | Active | Rocket Companies | Narrow-Emerging Wide | Moderate-High | 2026-05-10 | **v2.9→v2.14** + Q1 most-profitable in 4 yrs — EBITDA $738M (26% margin); **Mr. Cooper $400M synergies pulled 1 yr forward to end-2026**; Redfin attach 45% w/ "line of sight to 50%"; AI capacity $300B 2 yrs early; +10.88% to $15.69; PW EV $25.80 (5-yr); R/R 3.6:1; verb upgrade **Add / Hold-Add** |
+| [SMCI](tickers/SMCI/SMCI.md) | Active | Super Micro Computer | Narrow | Low-Moderate | 2026-05-18 | **Workflow B update** — AI server leader (~70% DLC, $38.9–40.4B FY2026 guidance); at ~$31.04 (–10.9% from May 11 baseline); **co-founder Liaw criminal indictment + selling shares via Rule 144**; Hagens Berman expanded class action filed May 12; two new C-suite hires (CBO + CRO). Governance risks deepening incrementally. Double BAIT (B-Mod-Strong + T-Mod); PW EV ~$47 (+51%); R/R ~2.5:1 spot / ~4:1 at $25; **🟡 Watch / Speculative $22–$28; Hold (small)** |
 | [SBUX](tickers/SBUX/SBUX.md) | Active | Starbucks | Wide | Moderate | 2026-04-28 | Q2 FY26 turnaround confirmed — US comp +7.1% / txns +4.3% / op margin +110 bps; FY26 guide raised to ≥5%/$2.25–$2.45; 🟢 Initiate-on-dip / Hold |
 | [SCHW](tickers/SCHW/SCHW.md) | Active | Charles Schwab | Wide & Widening | High | 2026-04-26 | v2.9 — Triple BAIT (B+A+I-Strong); Q1 BEAT, FY26 guide raised >$5.80; Initiate / Add |
 | [SHOP](tickers/SHOP/SHOP.md) | Active | Shopify | Wide & Widening | High | 2026-05-10 | **v2.13→v2.14** + Q1 2026 (May 5) — rev $3.17B (+34%), GMV $100.7B (+35%), FCF $476M (15% margin), AI orders +13× YoY; Q2 guide high-20s drove –7.9% to $117.45; continued drift to $110.51 (May 8) on new 52-wk low $99.01. PW EV $212; R/R ~13:1 (~19:1 w/ Bull+ tail); **Initiate / Add <$110** |
@@ -61,6 +63,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 | [UNH](tickers/UNH/UNH.md) | Active | UnitedHealth Group | Wide | High | 2026-04-28 | v2.9 — Quadruple BAIT; Q1 BEAT + **CMS 2027 MA Final Rate ≈+2% (2026-04-28)** = double de-risk; ≈$368 (+14% week); Initiate / Add |
 | [WING](tickers/WING/WING.md) | Active | Wingstop | Narrow | Lower-Moderate | 2026-05-01 | 5-firm post-Q1 analyst cluster confirms thesis-weakening (Goldman Buy→Neutral $190); zones unchanged; Watch / Reduce on bounce |
 | [ZG](tickers/ZG/ZG.md) | Active | Zillow Group | Wide consumer / Narrow agent | Moderate | 2026-05-10 | **v2.9→v2.14** + Q1 (May 6) rev $708M (+18%) beat / EBITDA $182M (26%) beat; **record $626M Q1 buyback**; Showcase 4.3% (from 1.7%); mortgage +96%; Q2 guide incl. $20M FTC trial costs; **FTC motion-to-dismiss DENIED May 7** — risk escalated; Zillow+Realtor.com Preview May 5; PW EV $75 (5-yr); R/R ~4:1; **Initiate <$50 / Hold (selective add $38–45)** |
+| [ZM](tickers/ZM/ZM.md) | Active | Zoom Video Communications | Narrow & Widening | Moderate | 2026-05-14 | **Research refresh** — FCF compounder at 11.7× EV/FCF with $7.8B net cash and $1.6B/yr buybacks ($26/share cash = 26% of market cap); AI platform transition (Phone 10M+ seats, Contact Center $100M ARR, AI Companion MAU 3×) underpriced by COVID-fad narrative. Double BAIT (B-Mod + A-Strong); PW EV ~$194 (+92% at $101); R/R ~5.8:1. Q1 FY2027 earnings May 21. 🟢 **Initiate / Add below $155** |
 
 ---
 
@@ -81,6 +84,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 | DELL | $214.65 | near high | Single | Watch (insider selling) |
 | EBAY | $97.94 | –8.8% | Single | Watch / selective Initiate / Hold |
 | FIG | $17.47 | –88% (post-IPO) | Triple (B+A+I) | Initiate (small, contrarian) / Hold-Add |
+| GOOG | **~$395** (2026-05-10) | – | Triple (A-Strong + I-Mod-Strong + B-Mod) | 🟢 **Initiate (scaled); entry $360–410**; PW EV $566 (+43%); R/R ~2.5:1 |
 | HD | **~$313** (2026-05-26) | **–27%** from $426 high | Double (B+A Mod-Strong) | 🟢 **Initiate / Add <$325**; Q1 ✅ confirmed; R/R ~2.2:1; PW EV $377 (+20%) |
 | HOOD | **$70.29** (–14.35% Apr 29) | **–54.3%** | Double (B+A Mod-Strong) | **Initiate / Add** at $65–80; R/R ≈5.5:1 |
 | INTU | $319.45 (5/22/26) | –60.7% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $300–415 |
@@ -97,6 +101,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 | RH | $137.51 | –46.5% | Double (B-Strong, T-Mod via 35.6% short) | Watch / selective Initiate; entry $110–135 |
 | RIVN | $13.79 (5/15/26) | –41% from high | Triple (B+A+I-Mod, T-Mod) | Watch / Hold; entry $11–13 |
 | RKT | $15.60 | –35.9% | Double (B+A-Mod-Strong) | Initiate Spec. / Hold-Add; entry $11–14 |
+| SMCI | **~$31.04** (2026-05-18) | – | Double (B-Mod-Strong + T-Mod) | 🟡 **Watch / Speculative $22–$28; Hold (small)**; PW EV ~$47 (+51%); R/R ~2.5:1 |
 | SBUX | $97.28 (AH $102.68 +5.5%) | flat (AH near 52w high) | Double (A+I Mod-Strong) | 🟢 Initiate-on-dip / Hold (Add on dip); entry $90–97 |
 | SCHW | $91.71 | –14.7% | Triple-Strong (B+A+I), Mod T | **Initiate / Add**; entry $80–93 |
 | SHOP | $110.51 (May 8) | –39.4% from $182 high | Triple (B+A+I-Mod) | **Initiate / Add <$110** — entry zone reached post-Q1 drift |
@@ -108,6 +113,7 @@ governs weekly cron coverage (Core Rule #15). 4 tickers Paused as of
 | UNH | ≈$368 | ≈–13% | Quadruple (B-compressed; A+I-Strong, T-Mod) | **Initiate / Add** (Q1 BEAT + CMS 2027 MA Final Rate ≈+2% double de-risk) |
 | WING | $165.64 | –57% | Triple (B-Strong, A-Mod, T-Weak) | Watch / Reduce on bounce >$180; entry $135–150 |
 | ZG | $45.41 | –51.6% | Triple (B+A-Strong, I-Mod) | Initiate / Add; entry $38–50 |
+| ZM | **$101** (2026-05-14) | – | Double (B-Mod + A-Strong) | 🟢 **Initiate / Add below $155**; PW EV ~$194 (+92%); R/R ~5.8:1 |
 
 ---
 
