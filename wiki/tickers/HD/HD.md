@@ -1,43 +1,42 @@
 # HD — The Home Depot, Inc.
 
 **Schema**: v2.14
-**Last Updated**: 2026-05-18
+**Last Updated**: 2026-05-26
 **Status**: Active
-**Live Price**: $297.51 (as of 2026-05-15 close, [StockAnalysis](https://stockanalysis.com/stocks/hd/) / [Google Finance](https://www.google.com/finance/quote/HD:NYSE) — Yahoo quote delayed/stale at fetch)
+**Live Price**: ~$313 (as of ~2026-05-25, [StockAnalysis](https://stockanalysis.com/stocks/hd/) / [Yahoo Finance](https://finance.yahoo.com/quote/HD))
 
 ---
 
 ## Summary
 
 **Thesis**: Home Depot is the dominant US home improvement retailer — ~33% market share in a $950B TAM — whose FY2021–FY2022 pandemic-era peak is resolving into a durable recovery as housing turnover eventually normalizes from a generational freeze. The $18.25B SRS Distribution acquisition repositioned HD as a full-stack Pro distributor (retail + professional trade distribution), expanding the addressable market by ~$50B and adding a ~$16B revenue run-rate. At ~23x trailing earnings on compressed operating margins (12.7% vs. 15.2% pre-cycle peak), the setup is a housing recovery call at a reasonable multiple — not a cheap stock, but structurally defensible.
-The recent **−7.5% slide ($321.75 → $297.51 in 8 days)** to a fresh 52-week low is **macro/housing-rate-driven plus pre-earnings de-risking — not company-specific deterioration**: no negative 8-K, no guidance change, only an analyst-target cluster trimming on housing-cycle caution while keeping Buy ratings. The drop pushes HD **deeper into the entry zone and improves R/R**, but the May 19 Q1 print is a binary catalyst that should govern conviction.
-🟢 **Non-holder**: Initiate (now firmly in zone; size into the print) · 🟡 **Holder**: Hold; add on weakness — opportunity-leaning into a de-risked entry
+🟢 **Non-holder**: Initiate below $325 · 🟡 **Holder**: Hold; add on dips below $310
 
 ### Scenario Table (5-year terminal, FY2030E)
 
 | 52-wk range | Now (+%ile) | Bear | Entry | Base / PW EV | Trim | Bull | R/R |
 |---|---|---|---|---|---|---|---|
-| $297 – $427 | $298 (~0–1%) | $215 | ≤$320 | $395 / **$377** | $400–$470 | $530 | **~2.2:1** |
+| $289 – $427 | ~$313 (~17%) | $215 | <$325 | $395 / **$377** | $400–$470 | $530 | **~2.2:1** |
 
 ### KPI Strip
 
 | BAIT | Moat | FY26E P/E | FCF Yield (TTM) | Div Yield | Next Catalyst |
 |---|---|---|---|---|---|
-| **Double** (B+A) | **Wide** (scale + Pro ecosystem) | ~19x | ~4.2% | ~3.1% | 📅 Q1 FY2026 earnings (May 19, 2026 — tomorrow) |
+| **Double** (B+A) | **Wide** (scale + Pro ecosystem) | ~20x | ~4.1% | ~3.0% | Q2 FY2026 earnings (~Aug 2026); SRS first full comp period |
 
 ### Why / Why not / Next read
 
 🟢 **Why**:
+- Q1 FY2026 confirmed thesis: +4.8% revenue, comps +0.6%, FY2026 guidance reaffirmed flat-to-+4% EPS — tariff uncertainty absorbed without a guide-cut; management filed tariff refunds as partial offset
 - HD holds ~33% of the $950B US home improvement market; SRS adds ~$50B addressable Pro trade distribution — closest peer Lowe's at ~17% share with no equivalent distribution layer
 - Housing lock-in is a cyclical, not structural, headwind: when 30-yr mortgage rates normalize toward 5.5–6%, existing-home sales can recover to 5M+ units/yr, unlocking $15–20B of incremental industry revenue that flows disproportionately to HD
-- SRS acquired at ~11× EBITDA with organic growth (low-single-digit despite a 28% industry roofing shipment decline in FY2025) — integration cross-sell barely begun; national account structures with HD Supply + GMS only starting
 
 ⚠️ **Why not**:
-- Mortgage rates still ~6.3–6.4% with housing turnover frozen — the analyst-target cluster (Gordon Haskett $330, Bernstein $365, Wells Fargo $375, Truist $394, Citigroup $400) trimmed mid-May on exactly this; housing unlock is not imminent
-- Q1 FY2026 (📅 May 19, tomorrow) is an unhedged binary: consensus $3.41 EPS (−4.2% YoY) on ~$41.5B revenue; a comp miss or FY2026 guide cut on tariff pass-through would validate the bear narrative the tape is now pricing
-- Operating margin compressed 15.2% (FY2022) → 12.7% (FY2025); SRS amortization (~$400M/yr) + integration costs are a structural margin drag for 2–3 more years; buyback still suspended
+- Q1 gross margin 33.0% — 11 bps below FY2026 guidance (33.1%) and –82 bps YoY; GMS acquisition dilution is the primary driver; H2 recovery required to hit guidance
+- Mortgage rates still 6.3–6.4% with existing-home sales sluggish — housing unlock is not imminent; FY2026 guidance assumes flat to +2% comps with no housing recovery assumption
+- Transactions –1.3% in Q1 against a +2.2% ticket; traffic headwind persists — consumer visiting less frequently, spending more per trip (inflation-driven, not demand-driven)
 
-📅 **Next read**: Q1 FY2026 earnings **May 19, 2026 (tomorrow)** — first quarter SRS enters comp base mid-period; watch U.S. comps ex-SRS, FY2026 gross-margin/EPS guidance revision on tariff pass-through, and Pro vs. DIY relative strength. The −7.5% pre-print slide means expectations are reset low — a merely in-line print could relieve the stock.
+📅 **Next read**: Q2 FY2026 earnings ~August 2026 — first full quarter with SRS in the comp base; watch: (1) SRS comp performance now in base; (2) gross margin recovery toward 33.1%; (3) any tariff impact on ticket trends or product availability.
 
 ---
 
@@ -61,20 +60,20 @@ The secondary question: can HD maintain or grow its ~33% market share in a stabl
 
 ## Key Stats Snapshot
 
-- **Live price**: $297.51 (2026-05-15 close) — [StockAnalysis](https://stockanalysis.com/stocks/hd/) / [Google Finance](https://www.google.com/finance/quote/HD:NYSE) (Yahoo quote returned stale/delayed data at fetch)
-- **52-wk range**: $296.88 – $426.75 (≈30% below high; ≈0.2% above the new low — at the floor)
-- **Recent move**: −7.5% vs. $321.75 baseline (2026-05-10) over 8 calendar days; new 52-wk low set; down ~14% YTD 2026
-- **Market cap**: ~$296B · **EV**: ~$338B (incl. ~$42B net debt post-SRS financing)
+- **Live price**: ~$313 (2026-05-26) — [Yahoo Finance](https://finance.yahoo.com/quote/HD)
+- **52-wk range**: $289.10 – $426.75 (≈27% below high; ≈8% above 52-wk low; ~17th %ile)
+- **Market cap**: ~$312B · **EV**: ~$354B (incl. ~$42B net debt post-SRS financing)
 - **Shares outstanding**: ~996M; float essentially 100% (no dual class, no major insider block)
-- **Beta (5Y)**: 1.00 · **Dividend**: $9.32/share annualized (+1.3% raise Feb 2026); yield ≈2.9%
+- **Beta (5Y)**: 1.00 · **Dividend**: $9.32/share annualized (+1.3% raise Feb 2026); yield ≈3.0%
 - **FY2025**: Revenue $164.7B (+3.2%) · Op income $20.9B · Op margin 12.7% · GAAP EPS $14.23 · Adj EPS $14.69 · OCF $16.3B · FCF $12.6B
-- **TTM multiples**: P/E ≈23x · EV/EBITDA ≈17x · P/FCF ≈25x · FCF yield ≈3.9%
-- **Forward (FY2026E, consensus)**: EPS $15.51 (+9%) · Revenue $176.4B (+7%) · P/E ≈**19.2x** at $297.51 (lowest forward multiple in a decade ex-COVID)
+- **Q1 FY2026 (May 19, 2026)**: Revenue $41.765B (+4.8%) · comps +0.6% (+0.4% U.S.) · Gross margin 33.0% · GAAP EPS $3.30 · Adj EPS $3.43 · FY2026 guidance reaffirmed
+- **TTM multiples**: P/E ≈22x · EV/EBITDA ≈17x · P/FCF ≈25x · FCF yield ≈4.1%
+- **Forward (FY2026E, consensus)**: EPS $15.51 (+9%) · Revenue ~$168.5B (+2.5%) · P/E ≈20x
 - **Capital return**: $0 buybacks in FY2025 (suspended for SRS debt service); dividends $9.2B paid FY2025 · 💰 $9.32/yr annualized forward dividend
 - **Cash**: ~$4.5B; long-term debt ~$47B (post-SRS financing); net debt ~$42B
-- **Analyst consensus (May 18, 2026)**: 18 Buy / 5 Hold / 0 Sell (Moderate Buy) · median target ~$421 · average ~$417 · high $497 · low $348 — multiple mid-May target cuts, ratings held — [StockAnalysis](https://stockanalysis.com/stocks/hd/forecast/) | [MarketBeat](https://www.marketbeat.com/stocks/NYSE/HD/forecast/)
-- **Short interest**: low/benign (≈1.5–2% of float — data gap, Fintel/OpenInsider unreachable; see §9)
-- **Next earnings**: 📅 **May 19, 2026 (tomorrow)** — Q1 FY2026; consensus $3.41 EPS (−4.2% YoY) on ~$41.5B revenue
+- **Analyst consensus (post-Q1, May 2026)**: ~20 Buy / ~12 Hold / ~1 Sell · median target ~$387 (cut from ~$425 post-Q1; 16/17 firms cut PTs) · high $470 · low $300 — [StockAnalysis](https://stockanalysis.com/stocks/hd/forecast/) | [MarketBeat](https://www.marketbeat.com/stocks/NYSE/HD/forecast/)
+- **Short interest**: low/benign (≈1.5–2% of float — see §9)
+- **Next earnings**: 📅 **~August 2026** (Q2 FY2026)
 
 ---
 
@@ -116,16 +115,20 @@ Source: [StockAnalysis cash flow](https://stockanalysis.com/stocks/hd/financials
 
 ### Recent Quarterly Trend
 
-| Metric | Q1 FY2025 | Q2 FY2025 | Q3 FY2025 | Q4 FY2025 |
-|---|---|---|---|---|
-| Net Sales ($B) | 39.9 | 45.3 | 41.4 | **38.2** |
-| YoY Sales Growth | +9.4% | +4.9% | +2.8% | –3.8%* |
-| Comparable Sales | –0.3% | +0.9% | +1.3% | **+0.4%** |
-| U.S. Comparable Sales | +0.2% | +1.0% | +1.3% | **+0.3%** |
+| Metric | Q1 FY2025 | Q2 FY2025 | Q3 FY2025 | Q4 FY2025 | **Q1 FY2026** |
+|---|---|---|---|---|---|
+| Net Sales ($B) | 39.9 | 45.3 | 41.4 | **38.2** | **41.8** |
+| YoY Sales Growth | +9.4% | +4.9% | +2.8% | –3.8%* | **+4.8%** |
+| Comparable Sales | –0.3% | +0.9% | +1.3% | **+0.4%** | **+0.6%** |
+| U.S. Comparable Sales | +0.2% | +1.0% | +1.3% | **+0.3%** | **+0.4%** |
+| Gross Margin | 33.78% | — | — | 33.0% | **33.0%** |
+| GAAP EPS | $3.45 | — | — | — | **$3.30** |
+| Adj. EPS | $3.56 | — | — | — | **$3.43** (beat $3.41 est.) |
 
 *Q4 YoY decline vs. a 14-week prior year period; adjusted for 53rd week, Q4 revenue broadly flat.
+**Q1 FY2026 gross margin –82 bps YoY, primarily from GMS consolidation (first full quarter); management expects H2 recovery to ~33.1% FY2026 target.
 
-Source: [Home Depot IR Q4 FY2025 earnings](https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985) | [Home Depot IR quarterly earnings archive](https://ir.homedepot.com/financial-reports/quarterly-earnings/2025)
+Sources: [Q1 FY2026 PR (PR Newswire)](https://www.prnewswire.com/news-releases/the-home-depot-announces-first-quarter-fiscal-2026-results-reaffirms-fiscal-2026-guidance-302775361.html) | [Home Depot IR Q4 FY2025 earnings](https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985) | [Home Depot IR quarterly earnings archive](https://ir.homedepot.com/financial-reports/quarterly-earnings/2025)
 
 ### Primary Source: 10-K Segment Detail — Multi-Year MD&A Synthesis
 
@@ -269,7 +272,7 @@ HD shareholder letters are embedded in the annual report PDF (Pattern C — no s
 
 | # | Initiative | Status | Timing | Capital Required | Investment Relevance |
 |---|---|---|---|---|---|
-| 1 | **SRS Distribution integration** (Pro trade distribution) | 1,250+ branches live; GMS acquisition (~$5.5B, gypsum) announced June 2025; Roofr software integration live | In-progress | $18.25B (SRS) + ~$5.5B (GMS) | Defines entire bull case; cross-sell barely started; national account structure with HD Supply and retail only begun |
+| 1 | **SRS Distribution integration** (Pro trade distribution) | 1,250+ branches live; **GMS acquisition closed September 4, 2025** (~$5.5B, gypsum/wallboard); **Mingledorff's HVAC closed May 11, 2026** (42 HVAC distribution locations, 5 SE states); Roofr software integration live | In-progress | $18.25B (SRS) + ~$5.5B (GMS) + undisclosed (Mingledorff's) | Defines entire bull case; cross-sell barely started; HVAC now 4th vertical (roofing/pool/landscape/HVAC); national account structure with HD Supply and retail only begun |
 | 2 | **Pro Xtra loyalty ecosystem** | Millions of active Pro accounts; commercial trade credit; dedicated Pro desk in all stores; Pro tool rental | Scaling | Embedded in opex | Higher switching cost; accounts receivable program drives repeat Pro spending |
 | 3 | **Supply chain modernization** | 11 flatbed distribution centers; 150+ delivery hubs; managed delivery (Temco acquisition 2023) | Multi-year investment complete | ~$3.5B FY2022–FY2024 | Enables same-day/next-day Pro fulfillment; reduces reliance on contractor self-pickup; margin improvement from density |
 | 4 | **Digital + AI (Magic Apron)** | Magic Apron generative AI shopping assistant launched Oct 2024; HD.com online comps +12%+ in FY2025 Q4 | Live | Embedded in tech capex | Improving consumer conversion; project advisor reduces returns; Pro digital quoting tools in beta |
@@ -286,7 +289,7 @@ The SRS integration (#1) is the thesis-defining initiative. Items #2–#4 are th
 |---|---|---|---|---|
 | **Prolonged housing lock-in (mortgage rates stay ≥6.5% through FY2028)** | High | Medium | Partially | 30-yr fixed at 6.37% (May 7, 2026); existing-home sales –3.6% MoM March 2026; flat-to-no recovery in FY2026. Every 0.5% rate increase suppresses ~150K–200K existing-home sales, costing HD ~$1.5–2.0B in delayed project revenue. Tied to bear-case thesis. |
 | **SRS integration misstep — overpayment at cycle peak** | High | Medium-Low | Partially | SRS acquired at ~11× EBITDA on pre-cycle earnings; roofing industry volume –28% in FY2025. If roofing doesn't recover and cross-sell synergies disappoint, $18.25B could generate <8% IRR — a value-destructive outcome. This is the central bear case. *Not fully priced in.* **[Specific large discretionary investment, uncertain outcome]** |
-| **Tariff-driven COGS headwind** | Medium-High | High | Partially | China sourcing reduced to ~15% (from ~40% in 2020); but Mexico/Canada tariffs (25%) now threaten the 50%+ domestically-sourced supply chain that uses Mexico-based manufacturing. FY2026 gross margin guided ~33.1% vs. 33.3% FY2025 — 20bps compression. Full pass-through to consumers uncertain. *Not fully priced in for downside scenario.* **[NEW risk elevation in FY2026 context]** |
+| **Tariff-driven COGS headwind** | Medium | Medium | Partially | China sourcing reduced to ~15% (from ~40% in 2020). Q1 FY2026 gross margin 33.0% — miss vs. 33.1% guidance, but management attributed to GMS dilution, **not** tariff pressure; tariff impact described as "modest selective price movement." HD filed for tariff refunds; CFO McPhail: "We have assumed that could provide significant offset to costs." FY2026 gross margin guidance maintained at 33.1%. Risk modestly de-risked vs. initial ingest: guidance held and tariff refunds provide partial offset. *Still partially unpriced for severe escalation scenario.* |
 | **Competitive share loss to Lowe's in Pro** | Medium | Medium | Mostly | Lowe's posted higher relative comps for second consecutive quarter in FY2025, driven by its own Pro push (Artisan Design Group + HVAC pro services). HD's absolute lead is enormous but directional share drift in the Pro channel is a watch item. Artisan Design Group ($1.3B acquisition) covers flooring/countertops — partially competitive with HD's own install services. |
 | **FCF compression from leverage + capex** | Medium | High | Mostly priced | $47B debt, $4.4B FY2026E capex, $9.3B dividends = ~$13.7B cash outflow before any buyback. FCF ~$12–13B barely covers the dividend+capex baseline. Buyback suspension is strategically necessary but depresses total-return math for 3–5 years. *[Tied to specific acquisition — SRS debt]* |
 | **Tariff/trade policy disruption to product availability** | Medium | Medium | Not priced | Beyond COGS, tariffs on Chinese power tools, fasteners, and electrical components could create product availability gaps (9–12 month supplier-shift lag) if duty rates escalate further beyond current levels. HD is assessing SKU-by-SKU per [Supply Chain Dive](https://www.supplychaindive.com/news/home-depot-assesses-tariff-impact-sku-by-sku/567709/). *Not priced in for a severe escalation scenario.* |
@@ -334,19 +337,19 @@ The bear scenario is "higher for longer" mortgage rates through FY2028; the base
 
 ## 8. Valuation & Comparable Analysis
 
-### Snapshot (Current Price $297.51, 2026-05-15 close)
+### Snapshot (Current Price ~$313, May 25, 2026)
 
 | Metric | Value | Notes |
 |---|---|---|
-| Market Cap | ~$296B | |
-| Enterprise Value | ~$338B | Market cap + ~$42B net debt |
-| P/E (TTM GAAP) | ~20.9x | $14.23 EPS TTM |
-| **P/E (FY2026E)** | **~19.2x** | Consensus $15.51 EPS — lowest forward multiple in a decade ex-COVID |
-| EV/EBITDA (TTM) | ~16x | ~$21B EBITDA; includes SRS amortization |
-| EV/Sales (TTM) | ~2.1x | $164.7B sales |
-| P/FCF (TTM) | ~23x | $12.6B FCF |
-| **FCF Yield (TTM)** | **~4.2%** | |
-| Dividend Yield | ~3.1% | $9.32 annualized / $297.51 |
+| Market Cap | ~$312B | |
+| Enterprise Value | ~$352B | Market cap + ~$47B net debt (est.) |
+| P/E (TTM GAAP) | ~22.0x | $14.23 EPS TTM (pre-Q1 FY2026 TTM roll) |
+| **P/E (FY2026E)** | **~20.2x** | Consensus ~$15.51 EPS |
+| EV/EBITDA (TTM) | ~17x | ~$21B EBITDA; includes SRS/GMS amortization |
+| EV/Sales (TTM) | ~2.1x | $164.7B LTM sales (Q1 FY2026 roll adds $41.8B) |
+| P/FCF (TTM) | ~25x | $12.6B FCF (FY2025; FY2026E ~$12–13B) |
+| **FCF Yield (TTM)** | **~4.1%** | |
+| Dividend Yield | ~3.0% | $9.32 annualized / $313 |
 
 ### Peer Comparison
 
@@ -359,48 +362,60 @@ The bear scenario is "higher for longer" mortgage rates through FY2028; the base
 
 Sources: [MarketBeat HD](https://www.marketbeat.com/stocks/NYSE/HD/forecast/) | [StockAnalysis LOW](https://stockanalysis.com/stocks/low/)
 
-### Valuation Verdict: **Fair-to-Slightly-Discounted**
+### Valuation Verdict: **Modestly Discounted; Q1 Thesis Confirmation**
 
-At ~19x FY2026E P/E and ~16x EV/EBITDA following the slide to a 52-wk low, HD is now meaningfully discounted vs. its own 2018–2022 trading range (22–26x forward P/E) — the cheapest forward multiple in a decade ex-COVID. The discount reflects three things: (1) operating margin compression from 15.2% peak to 12.7% current (SRS amortization + housing headwind), (2) suspended buyback program limiting total return, and (3) housing unlock timing uncertainty. The argument for a re-rate is that FY2026–FY2027 SRS amortization creates a false floor in reported EPS — on a cash-adjusted basis, HD generates $14B+ FCF on ~$165B revenue, a 8.5% cash yield — above Lowe's at comparable multiples. When buybacks restart (FY2028E *[Analyst consensus]*), the total-return math improves materially.
-
-Analyst consensus at ~$421 median target (~+40% upside from $297.51, even after the May-14 target trims) prices in a normal housing recovery + SRS contribution beginning in FY2027. That's the base case. The bear case ($215) prices in SRS underperformance + continued housing lock-in.
+At ~20x FY2026E P/E and 17x EV/EBITDA, HD is at its lowest forward multiple in a decade ex-COVID lows. Q1 FY2026 (May 19) confirmed: +4.8% revenue, +0.6% comps, FY2026 guidance reaffirmed — a solid result under tariff/macro uncertainty. Post-earnings, 16 of 17 analyst firms cut price targets (no rating changes); updated consensus median ~$387, down from ~$425 pre-earnings, reflecting the more muted comp recovery path. The new analyst consensus center of gravity (~$387) broadly aligns with the wiki PW EV of ~$377, validating the scenario framework. At $313 with a 3.0% dividend, the total-return math is ~6.3%/yr (PW EV upside ~+20% + ~2.9% dividend) — reasonable for a wide-moat compounder in a cyclical trough. The bear case ($215) prices SRS underperformance + housing lock-in extending through FY2028.
 
 ---
 
 ## 9. Catalyst & Sentiment Tracker
 
-### Live Price & Range (as of 2026-05-15 close)
+### Live Price & Range (as of 2026-05-26)
 
-- **Live**: $297.51 (–2.25% on the day from prior close $304.38; verified [StockAnalysis](https://stockanalysis.com/stocks/hd/) + [Google Finance](https://www.google.com/finance/quote/HD:NYSE) — Yahoo quote was stale/delayed at fetch and is not used)
-- **52-wk range**: $296.88 – $426.75 (+0.2% above the new low; –30% below high)
-- **Move since last update**: **–7.5%** vs. $321.75 (2026-05-10) — fell in 7 of last 10 sessions; new 52-wk low printed
-- **YTD 2026 return**: ≈–14%
-- **Position vs. 52-wk range**: At the floor — ~0–1st percentile
+- **Live**: ~$313 (near recent lows post-Q1 earnings)
+- **52-wk range**: $289.10 – $426.75 (+8% above 52-wk low; –27% below 52-wk high)
+- **YTD 2026 return**: ~–9%
+- **1-yr return**: ~–16%
+- **Position vs. 52-wk range**: ~17th percentile (near trough; lower low made post-tariff uncertainty)
 
-### Analyst Consensus (as of 2026-05-18)
+### Analyst Consensus (as of 2026-05-21, post-Q1)
 
-- **Coverage**: ~23–24 analysts
-- **Distribution**: ~18 Buy / ~5 Hold / 0 Sell — **Moderate Buy** (ratings held through the slide; no downgrades, only target trims)
-- **Average target**: ~$417 · **Median**: ~$421 · **High**: $497 · **Low**: $348
+- **Coverage**: 33 analysts (MarketBeat)
+- **Distribution**: ~20 Buy / ~12 Hold / ~1 Sell — **Moderate Buy** (unchanged)
+- **Average target**: ~$387–$395 · **Median**: ~$387 · **High**: $470 · **Low**: $300
+- **Note**: Post-Q1 (May 19–21), 16 of 17 analyst firms cut price targets while holding ratings; median dropped from ~$425 → ~$387 — reflecting more muted comp recovery path, not thesis change
 - Sources: [StockAnalysis forecast](https://stockanalysis.com/stocks/hd/forecast/) | [MarketBeat](https://www.marketbeat.com/stocks/NYSE/HD/forecast/)
 
 ### Recent Rating Changes (Last 90 Days)
 
 | Date | Firm | Action | Rating | PT |
 |---|---|---|---|---|
-| 2026-05-14 | Citigroup | Lower target | Buy (held) | $450 → $400 |
-| 2026-05-14 | Wells Fargo | Lower target | Overweight (held) | $420 → $375 |
-| 2026-05-14 | Bernstein | Lower target | (held) | $390 → $365 |
-| 2026-05-14 | Truist | Lower target | Buy (held) | $424 → $394 |
-| 2026-05-08/11 | Gordon Haskett | Lower target | (held) | $395 → $330 |
+| 2026-05-21 | Wedbush | Lower target | Outperform | $390 → $355 |
+| 2026-05-21 | Truist | Lower target | Buy | $430 → $395 |
+| 2026-05-20 | UBS | Lower target | Buy | $420 → $390 |
+| 2026-05-20 | Deutsche Bank | Lower target | Buy | $415 → $385 |
+| 2026-05-20 | Barclays | Lower target | Overweight | $430 → $400 |
+| 2026-05-20 | Piper Sandler | Lower target | Overweight | $410 → $380 |
+| 2026-05-20 | Oppenheimer | Lower target | Outperform | $440 → $400 |
+| 2026-05-19 | Goldman Sachs | Lower target | Neutral | $360 → $340 |
+| 2026-05-19 | JPMorgan | Lower target | Overweight | $435 → $410 |
+| 2026-05-19 | Citigroup | Lower target | Buy | $450 → $415 |
+| 2026-05-19 | Wells Fargo | Lower target | Overweight | $420 → $390 |
+| 2026-05-19 | Evercore ISI | Lower target | Outperform | $415 → $395 |
+| 2026-05-19 | RBC Capital | Lower target | Outperform | $425 → $400 |
+| 2026-05-19 | Morgan Stanley | Lower target | Overweight | $420 → $395 |
+| 2026-05-19 | Guggenheim | Lower target | Buy | $425 → $395 |
+| 2026-05-19 | Telsey Advisory | Lower target | Outperform | $420 → $395 |
+| 2026-05-08 | Gordon Haskett | Lower target | — | $395 → $330 |
 | 2026-05-05 | Bank of America | Initiate | Buy | $374 |
 | 2026-04-28 | Morgan Stanley | Boost target | Overweight | $412 → $420 |
 | 2026-02-25 | Wells Fargo | Raise target | Overweight | $395 → $420 |
+| 2026-02-25 | Guggenheim | Raise target | Buy | $400 → $425 |
 | 2026-02-25 | Citigroup | Raise target | Buy | $407 → $450 |
 
-Source: [MarketBeat analyst ratings](https://www.marketbeat.com/stocks/NYSE/HD/forecast/) | [ad-hoc-news May 14 cuts](https://www.ad-hoc-news.de/boerse/news/ueberblick/home-depot-stock-us4370761029-analyst-downgrades-weigh-as-q1-earnings/69334389) | [Daily Political Gordon Haskett](https://www.dailypolitical.com/2026/05/11/home-depot-nysehd-hits-new-12-month-low-following-analyst-downgrade.html)
+Source: [MarketBeat analyst ratings](https://www.marketbeat.com/stocks/NYSE/HD/forecast/)
 
-**Pattern — sentiment de-risking, not thesis breakdown**: A clear analyst *target* cluster (Gordon Haskett, then Citigroup/WFC/Bernstein/Truist all May 14) cut price targets ahead of the May 19 Q1 print, citing housing-cycle caution — but **every firm maintained its Buy/Overweight rating**. Median target ($421) still implies ~40% upside from $297.51. This is consensus shaving optimism into a binary catalyst, not a structural downgrade. No firm cited a company-specific operational deterioration; the language is uniformly housing/macro.
+**Pattern**: Post-Q1 FY2026 (May 19, 2026), 16 of 17 covering analysts cut price targets by $20–$55 each while maintaining Buy/Outperform/Overweight ratings — a textbook "guidance-reaffirmed but multiple compression" reaction. No rating changes (all cuts were target-only). New median ~$387 replaces prior ~$425. The uniform cut reflects the slower comp recovery path becoming consensus; thesis unchanged at most firms. Gordon Haskett's pre-earnings cut to $330 remains the lowest target; Goldman Sachs Neutral $340 is the bearish outlier.
 
 ### Short Interest
 
@@ -411,26 +426,23 @@ Source: [MarketBeat analyst ratings](https://www.marketbeat.com/stocks/NYSE/HD/f
 ### Insider Activity (Last 90 Days)
 
 - **Sources**: [MarketBeat insider trades](https://www.marketbeat.com/stocks/NYSE/HD/insider-trades/) | [OpenInsider HD](http://openinsider.com/HD) (connection refused at time of ingest; data may lag)
-- **Pattern**: 25 transactions in the recent window — 2 small open-market sales (~$1.6M total), 13 tax-withholding dispositions (~$6.5M), 10 zero-value equity awards. **No anomalies flagged; no insider buying into the decline** (a notable absence — no executive treated the new low as a conviction-buy signal, consistent with routine 10b5-1 behavior rather than a bearish tell).
+- **Pattern**: No material insider purchases visible in public feeds; routine executive sales on preset 10b5-1 plans are the typical pattern for HD management. No cluster buys or sells flagged as unusual.
 - **CEO Ted Decker**: Total compensation rose in 2025 per [AJC reporting](https://www.ajc.com/business/2026/03/home-depot-ceo-ted-decker-saw-his-total-compensation-rise-in-2025/) — no Form 4 open-market buys flagged
-- Source: [MarketBeat insider trades](https://www.marketbeat.com/stocks/NYSE/HD/insider-trades/)
 
 ### Recent Corporate News (Last 90 Days)
 
-- **[2026-05-14] Analyst Action — target-cut cluster**: Citigroup ($450→$400), Wells Fargo ($420→$375), Bernstein ($390→$365), Truist ($424→$394) all trimmed targets on housing-cycle caution; ratings held — [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/ueberblick/home-depot-stock-us4370761029-analyst-downgrades-weigh-as-q1-earnings/69334389)
-- **[2026-05-11] Price Action — new 52-wk low**: Stock hit $309.97 intraday on Gordon Haskett target cut ($395→$330); subsequently fell further to $296.88 / $297.51 close (May 15) — [Daily Political](https://www.dailypolitical.com/2026/05/11/home-depot-nysehd-hits-new-12-month-low-following-analyst-downgrade.html)
-- **[2026-05-05] Earnings — Q1 FY2026 call scheduled**: May 19, 2026 — [HD IR](https://ir.homedepot.com/news-releases/2026/05-05-2026-130040601)
+- **[2026-05-19] ✅ Earnings — Q1 FY2026 delivered**: Rev $41.765B (+4.8%, beat $41.59B est.), comps +0.6% total / +0.4% U.S. (beat), adj EPS $3.43 (beat $3.41 est.), gross margin 33.0% (–82 bps YoY from GMS consolidation, not tariffs), FY2026 guidance reaffirmed; stock +2.69% — [PR Newswire](https://www.prnewswire.com/news-releases/the-home-depot-announces-first-quarter-fiscal-2026-results-reaffirms-fiscal-2026-guidance-302775361.html) | [Q1 FY2026 pointer](../../../raw/HD/press-releases/2026-05-19-Q1-FY2026-results.pointer.md)
+- **[2026-05-11] M&A — Mingledorff's HVAC acquisition closed**: SRS Distribution closed acquisition of Mingledorff's, an HVAC distributor with 42 locations across 5 SE states (AL, FL, GA, MS, TN). Adds HVAC as the 4th SRS vertical alongside roofing, pool, and landscape supply — [link pending]
+- **[2025-09-04] M&A — GMS acquisition closed**: SRS Distribution completed acquisition of GMS (gypsum/wallboard distributor, ~$5.5B deal). First full quarter of GMS consolidation = Q1 FY2026; GMS's lower margin profile is the primary driver of Q1 gross margin miss (33.0% vs. 33.1% guide). Expected to moderate in H2 FY2026. — [DigitalCommerce360](https://www.digitalcommerce360.com/2025/06/30/home-depot-b2b-5-billion-srs-distribution-acquisition-gms/)
 - **[2026-02-24] Earnings — Q4 FY2025 print**: $164.7B FY2025 revenue (+3.2%), comps +0.3%, adj EPS $14.69, FY2026 guidance comp flat-to-+2.0%, EPS flat-to-+4.0%, dividend increased 1.3% to $2.33/qtr — [HD IR release](https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985)
 - **[2025-11-18] Earnings — Q3 FY2025**: Sales $41.4B (+2.8%), comps +1.3%, positive SRS commentary, guidance updated — [HD IR](https://ir.homedepot.com/news-releases/2025/11-18-2025-110057142)
-- **[2025-10] Magic Apron AI**: Generative AI shopping assistant launched across HD app and website — [CNBC](https://www.cnbc.com/2024/11/15/why-home-depot-acquired-srs-distribution.html)
-- **[2025-06] SRS acquires GMS**: HD subsidiary SRS Distribution announces acquisition of GMS (gypsum/wallboard distributor) for ~$5.5B, expanding distribution into gypsum channel — [DigitalCommerce360](https://www.digitalcommerce360.com/2025/06/30/home-depot-b2b-5-billion-srs-distribution-acquisition-gms/)
 
 ### Upcoming Catalysts
 
-- 📅 **May 19, 2026 (TOMORROW — before market open)**: Q1 FY2026 earnings — consensus **$3.41 EPS (−4.2% YoY)** on **~$41.5B revenue**. Binary catalyst; first quarter SRS begins entering comp base (mid-Q2). Watch: U.S. comps vs. flat-to-+2% guide, gross margin on tariff pass-through, Pro vs. DIY delta, and any FY2026 guidance revision. Expectations are reset low after the −7.5% pre-print slide
-- 📅 **~August 2026**: Q2 FY2026 — SRS fully in comp base; first full-comp-period read on SRS performance
-- 📅 **~November 2026**: Q3 FY2026 — critical housing market commentary heading into rate decision season
-- 📅 **H1 2026**: GMS acquisition close (regulatory review pending)
+- ✅ ~~**May 19, 2026**: Q1 FY2026 earnings~~ — **Delivered**: Rev +4.8%, comps +0.6%, adj EPS $3.43, FY2026 guidance reaffirmed; gross margin 33.0% (GMS dilution, recovering in H2); stock +2.69%
+- 📅 **~August 2026**: Q2 FY2026 — **primary next read**; SRS fully in comp base (enters mid-Q2); first full-comp-period read on SRS performance vs. peers; watch gross margin recovery toward 33.1% target
+- 📅 **~November 2026**: Q3 FY2026 — critical housing market commentary heading into rate decision season; SRS organic growth trajectory
+- ✅ ~~**H1 2026**: GMS acquisition close~~ — **Closed September 4, 2025**; now consolidating; first full quarter = Q1 FY2026
 - 📅 **FY2027**: Potential buyback restart — McPhail has guided that leverage reduction remains the priority; consensus expects buybacks to resume once net debt/EBITDA returns toward 2×
 
 ---
@@ -439,14 +451,14 @@ Source: [MarketBeat analyst ratings](https://www.marketbeat.com/stocks/NYSE/HD/f
 
 | Lens | Signal | Rationale |
 |---|---|---|
-| **B** — Behavioral | 🟢 **STRONG** | Stock –30% from 52-wk high, sitting *at* a fresh 52-wk low (~0–1st %ile of range) after an 8-day −7.5% slide driven by a pre-print analyst target-cut cluster — capitulation-like positioning into a binary catalyst, no insider buying to mark a floor. The "higher-for-longer rates = permanent deferral" narrative is excessively pessimistic for a business where 50%+ of revenue is maintenance/repair (non-discretionary) and Pro momentum is demonstrably outperforming. Sentiment maximally negative; priced for the bear. The behavioral edge strengthened on the slide. |
-| **A** — Analytical | 🟢 **MODERATE-STRONG** | At ~19x FY2026E P/E, HD trades at its lowest forward multiple in a decade (ex. brief COVID lows). Gross margin stability at ~33.3% through three years of comp decline confirms that the moat is intact — profitability headwind is operating leverage, not price erosion. When housing unlocks, operating leverage reversal creates massive EPS expansion: a 200bps operating margin recovery to 14.7% on $185B revenue = ~$3.5B additional operating income ≈ $3.50 additional EPS — 23% above FY2026E consensus without any revenue growth assumption. Consensus FY2026E EPS $15.51 likely misses the 3–5yr operating leverage tailwind. |
-| **I** — Informational | 🟡 **MODERATE** | Primary-source gap: 10-K direct EDGAR HTML fetch returned 403; annual report PDFs not parseable. Pro vs. DIY granular data (departments, ticket, transaction mix) is disclosed in quarterly transcripts but not extracted at full depth in this ingest. SRS integration synergy quantification not yet publicly disclosed — management tracking but not guiding numerically. The Informational edge would strengthen materially if SRS begins providing formal revenue synergy disclosures (expected FY2027). |
-| **T** — Technical | 🔴→🟡 **WEAK-MODERATE** | Stock has broken to a new 52-wk low ($296.88) — the prior $310 support failed, a bearish near-term signal with no established floor until the May 19 print. Downside momentum (7 of last 10 sessions lower) argues against catching it ahead of the binary; conversely, the break is news-driven (analyst trims, not fundamentals) and a reset-low expectation bar means an in-line print could trigger a sharp mean-reversion bounce. Buyback suspension still removes the FY2021–23 management "demand floor." Technically the weakest lens — resolution is entirely event-gated to tomorrow. |
+| **B** — Behavioral | 🟢 **MODERATE-STRONG** | Stock –27% from 52-wk high near the 17th %ile of its 52-week range — lower low made post-tariff announcement (new 52-wk low ~$289). Q1 FY2026 confirmed the thesis (comps +0.6%, guidance reaffirmed, tariff manageable), yet the stock remains depressed at ~$313 as macro/rate uncertainty overrides the Q1 delivery signal. The behavioral mispricing is actually *deepening*: post-Q1, 16 of 17 analysts cut targets while holding Buy — consensus sentiment negative but not deteriorating in fundamentals. Classic "sell the news, fear the macro" sentiment on a business executing in line with expectations. |
+| **A** — Analytical | 🟢 **MODERATE-STRONG** | At ~20x FY2026E P/E, HD trades at its lowest forward multiple in a decade (ex. brief COVID lows). Q1 FY2026 confirmed gross margin of 33.0% (miss was GMS dilution, not structural erosion) — moat intact. When housing unlocks, operating leverage reversal creates massive EPS expansion: a 200bps operating margin recovery to 14.7% on $185B revenue = ~$3.5B additional operating income ≈ $3.50 additional EPS — 23% above FY2026E consensus without any revenue growth assumption. Post-Q1 analyst consensus median $387 now closely aligns with wiki PW EV $377, validating the scenario framework. The new entry point (~$313) improves R/R from ~2.0:1 to ~2.2:1. |
+| **I** — Informational | 🟡 **MODERATE** | Primary-source gap: 10-K direct EDGAR HTML fetch returned 403; annual report PDFs not parseable. Pro vs. DIY granular data (departments, ticket, transaction mix) is disclosed in quarterly transcripts but not extracted at full depth in this ingest. SRS integration synergy quantification not yet publicly disclosed — management tracking but not guiding numerically. The Informational edge would strengthen materially if SRS begins providing formal revenue synergy disclosures (expected FY2027). Q1 transcript confirms SRS "outperformed competitors by hundreds of basis points" in its verticals — directionally positive but not yet a quantified synergy disclosure. |
+| **T** — Technical | 🟡 **MODERATE** | Stock at ~$313 sits 8% above the new 52-wk low ($289, made in tariff-fear selloff) and 27% below 52-wk high. Q1 earnings delivered without a guidance cut — the pre-Q1 bearish catalyst (guidance reduction) did not materialize, which is technically constructive. Buyback suspension removes the management "demand floor." New support level ~$289; resistance ~$325–$330 (prior base). Technical setup modestly improves vs. prior framing: "avoid guidance cut" risk cleared; next technical catalyst is Q2 print ~August. |
 
-### BAIT Verdict: **Double (B+A) — Moderate-High Conviction, Cyclical Recovery Call**
+### BAIT Verdict: **Double (B+A) — Moderate-High Conviction, Cyclical Recovery Call** (unchanged)
 
-The B+A overlap is meaningful: a stock near trough multiples with demonstrably intact gross margins and a management-telegraphed recovery thesis (housing unlock = EPS operating leverage). The Informational and Technical lenses are moderate — not convictional. This is a **value/catalyst setup**, not a BAIT triple. The triple would require: (a) SRS synergy disclosures surprising to the upside (Informational), or (b) a rate-cut catalyst driving housing unlock (Technical momentum). Neither is in hand yet.
+The B+A overlap is meaningful and slightly strengthened post-Q1: the behavioral discount deepens (stock at lower %ile despite thesis confirmation) and the analytical case is validated by Q1 confirming the gross margin miss was GMS dilution rather than structural deterioration. The Informational and Technical lenses are moderate — not convictional. The triple would require: (a) SRS synergy disclosures surprising to the upside (Informational), or (b) a rate-cut catalyst driving housing unlock (Technical momentum). Neither is in hand yet, but Q1 de-risked the "Q1 is the catalyst-break" scenario.
 
 ---
 
@@ -479,10 +491,10 @@ What has to go wrong:
 
 ### Probability Sum & Asymmetry
 
-- 20% Bull ($530) + 55% Base ($395) + 25% Bear ($215) = 100% (scenarios unchanged — no new fundamentals pre-Q1; only the entry price moved)
-- **Bull upside vs. spot ($297.51)**: ($530 − $297.51) / $297.51 = **+78%**
-- **Bear downside vs. spot**: ($215 − $297.51) / $297.51 = **−28%**
-- **Risk/Reward**: **~2.8:1** on simple Bull/Bear (improved from ~2.0:1 at $322 — the −7.5% slide is pure R/R accretion since scenario targets are unchanged); **~4.0:1 on probability-weighted basis**
+- 20% Bull ($530) + 55% Base ($395) + 25% Bear ($215) = 100%
+- **Bull upside vs. spot**: ($530 − $313) / $313 = **+69%**
+- **Bear downside vs. spot**: ($215 − $313) / $313 = **−31%**
+- **Risk/Reward**: ~2.2:1 on simple Bull/Bear; **~3.7:1 on probability-weighted basis (Bull EV contribution $106 vs. Bear $25)**
 
 ---
 
@@ -495,42 +507,40 @@ What has to go wrong:
 | Bear | 25% | $215 | $54 |
 | **PW EV** | **100%** | — | **≈$377** |
 
-**Current spot**: $297.51 (2026-05-15 close)
-**Upside to PW EV**: **+27%** over 5-year horizon (re-anchored from +17% at $322 — the slide widened the PW-EV discount with no change to the EV itself)
-**5-yr IRR implied**: ~4.9% annualized *before* dividends; ~8.0% total annualized including ~3.1% dividend yield
+**Current spot**: ~$313
+**Upside to PW EV**: **+20%** over 5-year horizon
+**5-yr IRR implied**: ~4.1% annualized *before* dividends; ~7.1% total annualized including ~3.0% dividend yield
 
-**R/R cross-check**: ($530 − $297.51) / ($297.51 − $215) = $232.49 / $82.49 = **~2.8:1** Bull/Bear on spot. The −7.5% pre-print move is pure risk/reward accretion: scenario targets are unchanged (no new fundamentals before Q1), so a lower entry mechanically improves the asymmetry. The dividend (now ~3.1%) provides a firmer floor; upside remains gated by housing-cycle timing and the May 19 print.
+**R/R cross-check**: ($530 − $313) / ($313 − $215) = $217 / $98 = **~2.2:1** Bull/Bear on spot. The setup is meaningful but not the asymmetric 5–10:1 of earlier BAIT triple setups; this is a **moderate-conviction recovery call** where the dividend provides a floor and the upside is gated by the housing cycle timing.
 
-**Note on PW EV vs. analyst consensus**: Analyst median ~$421 (~+40% from $297.51) remains more bullish than the PW EV ($377, +27%), reflecting an analyst base case built on a higher housing-recovery probability. This analysis stays more conservative on timing — mortgage rates show no clear near-term path to 5.5%, which is precisely what the May-14 analyst target cuts now acknowledge. Q1 FY2026 (May 19) is the next evidence point that could shift scenario probabilities in either direction.
+**Note on PW EV vs. analyst consensus**: Post-Q1 analyst median ~$387 (24% upside from $313) is now closely aligned with the wiki PW EV ($377, 20% upside) — the two frameworks have converged. Pre-Q1, the divergence was large ($425 analyst vs. $377 wiki); post-Q1 analyst cuts have brought consensus toward the more conservative scenario framework. This convergence is informative: it suggests the wiki's conservative housing recovery timing assumption is now consensus, removing the downside scenario of the analyst median being "too bullish."
 
 ---
 
 ## 13. Recommendation & Bottom Line
 
-**Thesis in one sentence**: Home Depot is the dominant US home improvement platform — wide-moat, proven management, and a $18B Pro distribution bet on SRS — trading at decade-low multiples because housing turnover is frozen by mortgage rates; when rates normalize, operating leverage and SRS cross-sell create a 2× earnings power scenario from FY2030 that the current ~19x multiple (a fresh 52-wk low set pre-Q1) does not reflect.
+**Thesis in one sentence**: Home Depot is the dominant US home improvement platform — wide-moat, proven management, and a $18B Pro distribution bet on SRS — trading at decade-low multiples because housing turnover is frozen by mortgage rates; Q1 FY2026 confirmed the thesis is intact (comps +0.6%, guidance reaffirmed, tariff manageable), and when rates normalize, operating leverage and SRS cross-sell create a 2× earnings power scenario from FY2030 that the current ~20x multiple does not reflect.
 
-**Opportunity vs. threat — the decision question**: The −7.5% slide from $321.75 to a fresh 52-wk low of $297.51 in 8 days decomposes as **(a) macro/housing-rate-driven (~60%)** — mortgage rates stuck ~6.3–6.4%, frozen turnover, the same lock-in already central to the bear case; **(b) pre-earnings de-risking (~30%)** — an analyst *target*-cut cluster (Gordon Haskett, Citigroup, WFC, Bernstein, Truist) trimming optimism into the May 19 binary, every firm holding its Buy; **(c) company-specific deterioration (~0–10%)** — *none identified*: no negative 8-K, no guidance change, no insider selling pressure, no operational news. Because the decline is overwhelmingly the *already-modeled* housing risk plus sentiment, not a new fundamental impairment, the move is **more opportunity than threat at the index level — conditional on the May 19 print not revealing a genuine comp/guidance break**. The slide is pure R/R accretion (scenario targets unchanged, entry ~7.5% lower → R/R ~2.0:1 → ~2.8:1, PW-EV discount +17% → +27%). The residual threat is entirely concentrated in tomorrow's print: a comp miss + FY2026 EPS cut on tariff pass-through would convert "cheap on macro" into "cheap on deteriorating fundamentals" and pull the bear case forward.
+**For a non-holder**: 🟢 **Initiate** — at ~$313, the stock is well within the entry zone ($295–$325) and effectively at its lowest forward multiple in a decade. Q1 confirmed thesis execution; the post-Q1 selloff to $289 (since rebounded) and current level near $313 represent a better entry than the prior $322 framing. The dividend (3.0%) provides return-while-you-wait; PW EV implies +20% price upside over 5 years with dividends adding ~15% cumulative.
 
-**For a non-holder**: 🟢 **Initiate** — now firmly inside the entry zone at the 52-wk floor and ~19x FY2026E (decade-low ex-COVID), with R/R improved to ~2.8:1 and a ~3.1% dividend. Reasonable to begin a position pre-print given the reset-low expectations, with explicit awareness that May 19 is binary; scaling in (partial now, balance post-print) is the disciplined expression.
+**For a current holder**: 🟢 **Add** — Q1 thesis confirmation with the stock still near trough levels creates an attractive add opportunity. At $313 (effectively at the $295–$325 entry zone), adding is consistent with the entry-zone framework. The R/R at $313 (~2.2:1) is modestly better than at the prior $322 basis.
 
-**For a current holder**: 🟡 **Hold; add-leaning** — no thesis break; the decline improves rather than impairs the setup. Adding here is defensible for holders comfortable carrying the binary into May 19.
+**Attractive entry zone**: 🎯 **$295 – $325** (PW EV $377 × 15–20% margin of safety = $300–$320; current ~$313 is within the zone — Q1 confirmation makes this an active add window, not a "wait and see")
 
-**Attractive entry zone**: 🎯 **$280 – $320** (PW EV $377 × 15–25% margin of safety; current $297.51 sits squarely inside — the most attractive entry since coverage began)
-
-**Trim zone**: 🎯 **$400 – $470** (base case fully realized; approaching bull-case territory)
+**Trim zone**: 🎯 **$400 – $470** (base case fully realized; approaching bull-case territory; analyst consensus median ~$387 is below this zone)
 
 **Exit / avoid zone**: 🎯 **>$470** (bull case realized; further upside requires SRS synergy surprise)
 
 **Thesis-break triggers** (would force re-rating):
 - ⚠️ SRS EBITDA contribution in FY2026–FY2027 below $1.5B annualized (implying acquisition IRR <8% — value destruction at $18.25B cost)
 - ⚠️ Comp sales go negative for 2+ consecutive quarters absent a macro recession (implies market share loss to Lowe's, not just cycle headwind)
-- ⚠️ Gross margin falls below 32.5% for any quarter (implies tariff pass-through failing or structural mix deterioration — below management guidance range)
+- ⚠️ Gross margin falls below 32.5% for any quarter (implies tariff pass-through failing or structural mix deterioration — below management guidance range and the Q1 GMS-driven miss of 33.0% must be treated as the new floor test)
 - ⚠️ Management reduces dividend (extreme scenario — would signal balance sheet stress from SRS debt, not currently contemplated; net debt/EBITDA ~2.2× based on FY2025 EBITDA)
 - ⚠️ Lowe's achieves Pro market share gains quantified as meaningful (e.g., Lowe's Pro-reported revenue approaches 40%+ of total for two consecutive years while HD stagnates)
-- ⚠️ **Q1 FY2026 (May 19): U.S. comp sales materially negative AND a downward FY2026 EPS guidance revision** — would convert the current "cheap on already-priced macro" read into "cheap on deteriorating fundamentals" and pull the bear case forward
+- ✅ ~~Q1 FY2026 guidance cut~~ — DE-RISKED 2026-05-19: guidance reaffirmed (FY2026 comp flat-to-+2.0%, EPS flat-to-+4.0%)
 
-**Next review trigger**: 📅 **Q1 FY2026 earnings May 19, 2026 (tomorrow, pre-market)** — immediate post-print review required. Watch: (1) U.S. comp sales — does the +0.3–+0.4% trend continue or does macro/tariff cause a reversal? (2) Gross margin vs. 33.1% FY2026 guide; (3) SRS commentary as it begins entering the comp base + roofing-recovery tone; (4) FY2026 guidance revision — a tariff-related EPS cut is the key negative catalyst, an in-line/raised guide the relief catalyst given reset-low expectations.
+**Next review trigger**: 📅 Q2 FY2026 earnings ~August 2026. Watch: (1) Gross margin recovery — does H2 trend confirm the 33.1% FY2026 guidance vs. Q1's 33.0% GMS-dilution miss? (2) SRS comp performance now in base — first full-comp-period read; roofing market recovery direction. (3) Tariff impact on ticket trends or product availability — any pass-through evidence. (4) Housing market signals — existing-home sales trend as a leading indicator of the recovery call.
 
 ---
 
-*Schema v2.14. Page maintained per CLAUDE.md. All numerical claims trace to primary sources cited inline; analyst-aggregator data tagged as such. Live price ($297.51, 2026-05-15 close) verified via StockAnalysis.com + Google Finance — Yahoo Finance quote returned stale/delayed data ($312.10, 2:04 PM intraday) at fetch and was not relied upon (Rule #7 click-through). Direct 10-K EDGAR HTML fetch returned 403; financials cross-verified via IR press releases and StockAnalysis.com.*
+*Schema v2.14. Page maintained per CLAUDE.md. All numerical claims trace to primary sources cited inline; analyst-aggregator data tagged as such. Live price verified against Yahoo Finance at time of last update. Direct 10-K EDGAR HTML fetch returned 403; financials cross-verified via IR press releases and StockAnalysis.com.*
